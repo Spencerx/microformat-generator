@@ -2,4 +2,4 @@ microformat-generator
 =====================
 
 Simple site to generate coworking microformat html
-Using it to create, log, modify metadata for coworking.
+Using it to create and log metadata.
